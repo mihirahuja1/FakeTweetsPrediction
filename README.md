@@ -1,1 +1,3 @@
 # FakeTweetsPrediction
+
+Kaggle Competition
